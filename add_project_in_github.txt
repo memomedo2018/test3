@@ -1,0 +1,17 @@
+1- open the file in desk, click right, gift bush
+2- intial the gethub
+$ git init
+3- name the prject
+$ git config --global user.name "mohamed shaker"
+4- email the project
+$ git config --global user.email "alihessien0@gmail.com"
+5- the uploaded link
+$ git remote add origin https://github.com/memomedo2018/mytest
+6- collect the project
+$ git add .
+7- inithial the uploading
+$ git commit -m "initial commit"
+8- commit logs
+$ git log
+9- uploading...
+$ git push  origin master
